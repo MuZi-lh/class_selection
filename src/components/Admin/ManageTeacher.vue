@@ -173,7 +173,6 @@ export default {
           that.lect_id = "";
           that.depa_name = "";
           that.lect_name = "";
-          that.passwd = "";
           that.major = "";
           ElMessage.success({
             message: "添加成功",

@@ -221,7 +221,6 @@ export default {
             (that.stud_name = ""),
             (that.gender = ""),
             (that.total_credit = ""),
-            (that.passwd = ""),
             (that.major = "");
           ElMessage.success({
             message: "添加成功",
